@@ -2906,3 +2906,13 @@ collette_tesauro:
   github: collettesg
   links: '[LinkedIn](https://www.linkedin.com/in/ctesauro)'
   description: Collette is a New Jersey native, and currently resides there after a nine-year hiatus in San Diego, CA. Prior to joining Sourcegraph, Collette spent years working as both in-house and external employment and privacy counsel. In her non-working time, Collette enjoys playing video games with friends 🎮, reading (and collecting books she plans to read) 📚, and spending time with her husband.
+
+alok_desai:
+  name: Alok Desai
+  role: Enterprise Account Executive
+  reports_to: regional_director_sales_east
+  location: New York, NY, USA 🇺🇸
+  email: alok.desai@sourcegraph.com
+  github: alok-desai
+  links: '[LinkedIn](https://www.linkedin.com/in/alokpdesai)'
+  description: "Alok grew up in the southeastern United States and is currently living in New York City. He developed an interest in coding while at Emory University, eventually earning an Economics degree from Emory and a Computer Engineering degree from Georgia Tech through the Engineering Dual Degree Program. He began his professional career as a product manager on AirWatch's R&D team, which has influenced his approach to helping engineering leaders achieve their business goals. Outside of work, he enjoys staying active (tennis, weight lifting, running) and exploring NYC."
